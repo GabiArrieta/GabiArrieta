@@ -14,8 +14,9 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5QjgJ20xSbkyfDY2iPERtz)
 
 ### Connect with me:
-[<img align="left" alt="GabiArrieta.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="GabiArrieta.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- :mailbox: You can reach me with the links below
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabiarrieta:gabriela.arrieta.187@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-arrieta/)
 
 <br />
 
@@ -44,6 +45,12 @@
 <!-- BLOG-POST-LIST:START -->
 - [Anime Search | React](https://github.com/GabiArrieta/anime-search)
 - [Recipe Food App | React](https://github.com/GabiArrieta/recipeFood-App)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+⭐️ From [@GabiArrieta](https://github.com/GabiArrieta)
 
 
 [website]: https://GabiArrieta.web.app
