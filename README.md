@@ -14,7 +14,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/5QjgJ20xSbkyfDY2iPERtz)
 
 ### Connect with me:
-[Gmail](<a href="mailto:gabriela.arrieta.187@gmail.com"> <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>)
+<a href="mailto:gabriela.arrieta.187@gmail.com"> <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-arrieta/)
 
 <br />
