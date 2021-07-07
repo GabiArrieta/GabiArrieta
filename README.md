@@ -1,10 +1,7 @@
 ### Hi there, I'm Gabi! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+full+stack+developer+from+Argentina+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+passionate+Full+Stack+Developer+from+Argentina+💻)](https://git.io/typing-svg)
 
 ![Study](https://data.whicdn.com/images/40963944/original.gif)
-
-
-## I'm a passionate Full Stack Developer from Argentina
 
 - 🔭 Eternal Apprentice
 - 🌱 I’m currently learning Node.Js, Express.Js and React 
