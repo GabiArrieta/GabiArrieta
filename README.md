@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabi! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2bd1c9&width=750&lines=I'm+a+passionate+Full+Stack+Developer+from+Argentina+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=22a7a0&width=750&lines=I'm+a+passionate+Full+Stack+Developer+from+Argentina+💻)](https://git.io/typing-svg)
 
 ![Study](https://data.whicdn.com/images/40963944/original.gif)
 
