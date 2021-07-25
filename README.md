@@ -21,7 +21,6 @@
 ---
 ### Spotify Playing 🎧
 [<img src="https://miro.medium.com/max/1200/1*pC9F1MF4XJ0rJuVtd32dAA.png" alt="Spotify Playing" width="150" />](https://open.spotify.com/playlist/5QjgJ20xSbkyfDY2iPERtz)
-
 <br />
 
 ### 📕My Projects
