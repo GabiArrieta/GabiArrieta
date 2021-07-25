@@ -27,8 +27,9 @@
 ### 📕My Projects
 
 <!-- BLOG-POST-LIST:START -->
-- [Anime Search | React](https://github.com/GabiArrieta/anime-search)
-- [Recipe Food App | React](https://github.com/GabiArrieta/recipeFood-App)
+- [⭐Food Recipes App with React JS, Redux, Node Js, Express Js, Sequelize, PostgreSQL, Spoonacular API](https://github.com/GabiArrieta/PI-Food-App)
+- [Anime Search | Practice React](https://github.com/GabiArrieta/anime-search)
+- [Api Food | Practice React](https://github.com/GabiArrieta/recipeFood-App)
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
