@@ -14,15 +14,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabiarrieta&show_icons=true&locale=en" alt="gabiarrieta" /></p>
 
-### Contact me:
-<a href="mailto:gabriela.arrieta.187@gmail.com"> <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-arrieta/)
-
----
-### Spotify Playing 🎧
-[<img src="https://miro.medium.com/max/1200/1*pC9F1MF4XJ0rJuVtd32dAA.png" alt="Spotify Playing" width="150" />](https://open.spotify.com/playlist/5QjgJ20xSbkyfDY2iPERtz)
-<br />
-
 ### 📕My Projects
 
 <!-- BLOG-POST-LIST:START -->
@@ -32,6 +23,10 @@
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+### Contact me:
+<a href="mailto:gabriela.arrieta.187@gmail.com"> <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-arrieta/)
 
 ⭐️ From [@GabiArrieta](https://github.com/GabiArrieta)
 
