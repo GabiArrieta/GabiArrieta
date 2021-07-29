@@ -20,7 +20,7 @@
 I developed the Front-End with React, Redux and Css Modules. 
 On the Back-End I used a Node server with Express and connected to a local PostgreSQL database with Sequelize. </p>
 
-  ![appFood](https://raw.githubusercontent.com/GabiArrieta/PI-Food-App/main/images/homePage.png)
+  <a href="https://github.com/GabiArrieta/PI-Food-App"> <img src="https://raw.githubusercontent.com/GabiArrieta/PI-Food-App/main/images/homePage.png" /> </a>
 
 - [Anime Search | Practice React](https://github.com/GabiArrieta/anime-search)
 - [Api Food | Practice React](https://github.com/GabiArrieta/recipeFood-App)
