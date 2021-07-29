@@ -16,6 +16,12 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [⭐Food Recipes App with React JS, Redux, Node Js, Express Js, Sequelize, PostgreSQL, Spoonacular API](https://github.com/GabiArrieta/PI-Food-App)
+<p> The application is powered by an external API and provides information about recipes. At the same time, it allows you to search by name, filter by type of feed and sort the results alphabetically and by rating. It also gives the user the option to create their own recipes.
+I developed the Front-End with React, Redux and Css Modules. 
+On the Back-End I used a Node server with Express and connected to a local PostgreSQL database with Sequelize. </p>
+
+  ![appFood](https://raw.githubusercontent.com/GabiArrieta/PI-Food-App/main/images/homePage.png)
+
 - [Anime Search | Practice React](https://github.com/GabiArrieta/anime-search)
 - [Api Food | Practice React](https://github.com/GabiArrieta/recipeFood-App)
 
