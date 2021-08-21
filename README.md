@@ -1,11 +1,13 @@
-### Hi there, I'm Gabi! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00ff45&width=750&lines=I'm+a+passionate+Full+Stack+Developer+from+Argentina+💻)](https://git.io/typing-svg)
+<p align="center">
+  <a href="#" ><img src="https://gfycat.com/agitatedrevolvingchihuahua"/></a>
+</p>
 
-![Study](https://data.whicdn.com/images/40963944/original.gif)
+### Hi there, I'm Gabi! 👋
+<h3 align="center">I'm full stack developer, a proactive person committed to do what I propose</h3>
+<h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
 - 🔭 Eternal Apprentice
 - 🌱 I’m currently learning Node.Js, Express.Js and React 
-- 👯 I’m looking to collaborate with other dev ops
 - 🥅 2021 Goals: study data science
 - ⚡ OpenToWork
 
