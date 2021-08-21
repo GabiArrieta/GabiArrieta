@@ -6,7 +6,6 @@
 <h3 align="center">I'm full stack developer, a proactive person committed to do what I propose</h3>
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
-- 🔭 Eternal Apprentice
 - 🌱 I’m currently learning Node.Js, Express.Js and React 
 - 🥅 2021 Goals: study data science
 - ⚡ OpenToWork
@@ -28,8 +27,6 @@ On the Back-End I used a Node server with Express and connected to a local Postg
 - [Api Food | Practice React](https://github.com/GabiArrieta/recipeFood-App)
 
 ---
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ### Contact me:
 <a href="mailto:gabriela.arrieta.187@gmail.com"> <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-arrieta/)
