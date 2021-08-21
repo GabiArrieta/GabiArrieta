@@ -1,5 +1,5 @@
 <p align="center">
-<div style='position:relative; padding-bottom:calc(15.15% + 44px)'><iframe src='https://gfycat.com/ifr/AgitatedRevolvingChihuahua' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+  <a href="#" ><img src="https://res.cloudinary.com/dexoamu5y/image/upload/v1629553919/banner-madeByMe_spelj2.gif"/></a>
 </p>
 
 ### Hi there, I'm Gabi! 👋
