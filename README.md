@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" ><img src="https://gfycat.com/agitatedrevolvingchihuahua"/></a>
+  <a href="#" ><img src="https://gfycat.com/agitatedrevolvingchihuahua" /></a>
 </p>
 
 ### Hi there, I'm Gabi! 👋
