@@ -7,7 +7,7 @@
 <h3 align="center">with a big motivation to learn new technologies and improve my knowledge.</h3>
 
 - 🌱 I’m currently learning Node.Js, Express.Js and React 
-- 🥅 2021 Goals: study data science
+- 🥅 2023 Goals: specialize in backend
 - ⚡ OpenToWork
 
 <h3 align="left">Languages and Tools:</h3>
